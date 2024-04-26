@@ -1,0 +1,21 @@
+{
+    "graalvm.installations": [
+        "d:\\Coding\\graalvm-jdk-22_windows-x64_bin\\graalvm-jdk-22+36.1"
+    ],
+    "graalvm.home": "d:\\Coding\\graalvm-jdk-22_windows-x64_bin\\graalvm-jdk-22+36.1",
+    "terminal.integrated.env.windows": {
+        "GRAALVM_HOME": "d:\\Coding\\graalvm-jdk-22_windows-x64_bin\\graalvm-jdk-22+36.1"
+    },
+    "cSpell.words": [
+        "chromedriver"
+    ],
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./__pycache__",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
