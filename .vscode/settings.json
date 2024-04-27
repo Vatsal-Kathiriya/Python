@@ -20,5 +20,6 @@
     "python.testing.unittestEnabled": false,
     "python.testing.pytestArgs": [
         "."
-    ]
+    ],
+    "openshiftToolkit.crcNameserver": ""
 }
